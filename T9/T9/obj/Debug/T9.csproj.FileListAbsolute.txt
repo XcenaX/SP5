@@ -1,0 +1,10 @@
+C:\Users\Lebedev'ml\source\repos\T9\T9\bin\Debug\T9.exe.config
+C:\Users\Lebedev'ml\source\repos\T9\T9\bin\Debug\T9.exe
+C:\Users\Lebedev'ml\source\repos\T9\T9\bin\Debug\T9.pdb
+C:\Users\Lebedev'ml\source\repos\T9\T9\obj\Debug\T9.csprojAssemblyReference.cache
+C:\Users\Lebedev'ml\source\repos\T9\T9\obj\Debug\T9.Form1.resources
+C:\Users\Lebedev'ml\source\repos\T9\T9\obj\Debug\T9.Properties.Resources.resources
+C:\Users\Lebedev'ml\source\repos\T9\T9\obj\Debug\T9.csproj.GenerateResource.cache
+C:\Users\Lebedev'ml\source\repos\T9\T9\obj\Debug\T9.csproj.CoreCompileInputs.cache
+C:\Users\Lebedev'ml\source\repos\T9\T9\obj\Debug\T9.exe
+C:\Users\Lebedev'ml\source\repos\T9\T9\obj\Debug\T9.pdb
